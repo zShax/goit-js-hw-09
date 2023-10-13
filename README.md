@@ -1,4 +1,4 @@
-# https://zshax.github.io/goit-js-hw-08/
+# https://zshax.github.io/goit-js-hw-09/
 
 # Parcel template
 
