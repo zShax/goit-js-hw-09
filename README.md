@@ -1,3 +1,5 @@
+# https://zshax.github.io/goit-js-hw-08/
+
 # Parcel template
 
 Этот проект был создан при помощи Parcel. Для знакомства и настройки
