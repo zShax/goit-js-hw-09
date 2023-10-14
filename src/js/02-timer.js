@@ -13,9 +13,9 @@ const options = {
 
     if (selectedDate <= currentDate) {
       Notiflix.Notify.failure('Te rog alege o dată din viitor');
-      document.querySelector('[data-start]').disabled = true; // Dezactivați butonul "Start"
+      document.querySelector('[data-start]').disabled = true;
     } else {
-      document.querySelector('[data-start]').disabled = false; // Activați butonul "Start"
+      document.querySelector('[data-start]').disabled = false;
     }
   },
 };
